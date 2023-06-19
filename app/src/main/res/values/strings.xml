@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZodiacSign</string>
+    <string name="enter_the_year">Enter The Year</string>
+    <string name="test">test</string>
+    <string name="select_date">Select Date:</string>
+    <string name="jan_01_2020">JAN 01 2020</string>
+    <string name="Enter_Your_BirthDate">Enter_Your_BirthDate</string>
+    <string name="enter_your_birthdate">Enter Your BirthDate</string>
+    <string name="submit">SUBMIT</string>
+    <string name="hello_world">hello world</string>
+    <string name="submit1">SUBMIT</string>
+    <string name="enter_your_birthdate1">Enter Your BirthDate</string>
+</resources>
